@@ -2,7 +2,7 @@ using System;
 using CoinCombo.Models;
 using System;
 using CoinCombo.Models;
-using CoinCombo.UserInterfaceModels;
+// using CoinCombo.UserInterfaceModels;
 
 namespace CoinCombo
 {
